@@ -1,0 +1,48 @@
+# Built application files
+*.apk
+*.aab
+
+# IntelliJ / Android Studio
+*.iml
+.gradle/
+.idea/
+*.iws
+*.swp
+*.hprof
+.DS_Store
+
+# Android Studio generated files
+/local.properties
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# Build outputs
+/build/
+/captures/
+.externalNativeBuild/
+.cxx/
+output.json
+
+# Gradle files
+build/
+
+# Keystore files (IMPORTANT - never push signing keys)
+*.jks
+*.keystore
+
+# Logs
+*.log
+
+# Navigation editor (safe to ignore)
+.idea/navEditor.xml
+
+
+# Kotlin/Java class files
+*.class
+
+# OS files
+Thumbs.db
